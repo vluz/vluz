@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="PYlogo.png">
-</p>
-
 <BR>
 
 <p align="center">
