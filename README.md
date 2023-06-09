@@ -1,5 +1,15 @@
-![Profile](IDplate1.jpg)
+<p align="center">
+  <img src="PYlogo.png">
+</p>
 
-<br>
+<BR>
 
-_________![Warning](Warning.jpg)
+<p align="center">
+  <img src="IDplate1.jpg">
+</p>
+  
+<BR>
+
+<p align="center">
+  <img src="Warning.jpg">
+</p>
