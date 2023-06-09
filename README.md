@@ -2,4 +2,4 @@
 
 <br>
 
-_____![Warning](Warning.jpg)
+_________![Warning](Warning.jpg)
