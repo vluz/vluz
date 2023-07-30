@@ -1,3 +1,5 @@
+`pip install pyjokes`
+
 ```python
 import pyjokes
 
