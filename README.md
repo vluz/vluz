@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="IDplate1.jpg">
-</p>
-  
-<BR>
+```python
+import pyjokes
 
-<p align="center">
-  <img src="Warning.jpg">
-</p>
+
+joke = pyjokes.get_joke(language="en", category="neutral")
+
+print(joke)
+```
